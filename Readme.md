@@ -18,7 +18,8 @@ npm install
 2.  **.env File Create a .env file in the root directory with:**
 
 PORT=5050
-MONGO_URI=mongodb+srv://Naveen2303:Naveen2303@cluster0.gea7jq6.mongodb.net/Forum
+MONGO_URI= mongodb+srv://adiiima1989:adiiima1989@cluster01.gbxdr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster01
+
 GOOGLE_API_KEY=AIzaSyDrWJwLwkAhpRMIOd9Q5sSTpFnd2ldoGwI
 
 
